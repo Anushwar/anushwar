@@ -76,7 +76,7 @@ I'm Anushwar Sharma 👨‍💻
         </tr>
         <tr>
             <td>2.</td>
-            <td>Full stack development intern Intern @ <a href="https://www.disecto.com/" target="_blank">Disecto</a> </td>
+            <td>Full stack development Intern @ <a href="https://www.disecto.com/" target="_blank">Disecto</a> </td>
             <td>Summer 2021</td>
         </tr>
     </tbody>
