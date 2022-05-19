@@ -93,4 +93,4 @@ LinkedIn</a>
 ## 🔗 Connect with me :
 - LinkedIn :  **[https://www.linkedin.com/in/anushwar-sharma-b90970182](https://www.linkedin.com/in/anushwar-sharma-b90970182/)**
 - Email **[Anushwarsharma07@gmail.com](mailto:Anushwarsharma07@gmail.com)**
-- Personal website **[http://www.anushwarsharma.com/](http://www.anushwarsharma.com/)**
+- Personal website **[https://www.anushwarsharma.com/](https://www.anushwarsharma.com/)**
