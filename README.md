@@ -69,15 +69,20 @@ I'm Anushwar Sharma 👨‍💻
         <th>Status</th>
     </thead>
     <tbody>
-        <tr>
+      <tr>
             <td>1.</td>
-            <td>Software Engineer Intern @ <a href="https://www.1knetworks.com/" target="_blank">1K Retail Networks</a> </td>
+            <td>Software Engineer @ <a href="https://www.1knetworks.com/" target="_blank">1K Retail Networks</a> </td>
             <td>Currently Working</td>
         </tr>
         <tr>
             <td>2.</td>
+            <td>Software Engineer Intern @ <a href="https://www.1knetworks.com/" target="_blank">1K Retail Networks</a> </td>
+            <td>Nov 2021 - Jul 2022</td>
+        </tr>
+        <tr>
+            <td>3.</td>
             <td>Full stack development Intern @ <a href="https://www.disecto.com/" target="_blank">Disecto</a> </td>
-            <td>Summer 2021</td>
+            <td>Jul 2021 - Oct 2021</td>
         </tr>
     </tbody>
     <tfoot>
