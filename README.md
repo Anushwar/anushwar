@@ -5,9 +5,9 @@ I'm Anushwar Sharma
 
 
 ### 👾 About me :
-- I enjoy creating softwares with a great user interface and ensuring an exceptional user experience.
+- I enjoy creating software with a great user interface and ensuring an exceptional user experience.
 - I’m currently working on Interpreter Design.
-- I’m spend my time learning about Machine Learning and Generative AI
+- I also spend my time learning about Machine Learning and Generative AI
 - Get in touch: **anushwarsharma07@gmail.com**
 
 ### 🔬 Work :
