@@ -13,7 +13,7 @@ I'm Anushwar Sharma
 ### 🔬 Work :
 |No.|Description|Status|
 |-|-|-|
-|1.|Software Engineer @ [1K Networks](https://www.1knetworks.com/)|Currently Working|
+|1.|Software Engineer @ [1K Networks](https://www.1knetworks.com/)|Aug 2022 - Jul 2024|
 |2.|Software Engineer Intern @ [1K Networks](https://www.1knetworks.com/)|Nov 2021 - Jul 2022|
 |3.|Full stack development Intern @ [Disecto](https://www.disecto.com/)|Jul 2021 - Oct 2021|
 
