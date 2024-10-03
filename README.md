@@ -6,7 +6,7 @@ I'm Anushwar Sharma
 
 ### 👾 About me :
 - I enjoy creating software with a great user interface and ensuring an exceptional user experience.
-- I’m currently working on Interpreter Design.
+- I’m currently working on LLMs and Database Systems.
 - I also spend my time learning about Machine Learning and Generative AI.
 - Get in touch: **anushwarsharma07@gmail.com**.
 
