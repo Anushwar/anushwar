@@ -17,13 +17,6 @@ I'm Anushwar Sharma
 |2.|Software Engineer Intern @ [1K Networks](https://www.1knetworks.com/)|Nov 2021 - Jul 2022|
 |3.|Full stack development Intern @ [Disecto](https://www.disecto.com/)|Jul 2021 - Oct 2021|
 
-### ✍️ Random Dev Quote
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-  
-</div>
-
 <p align="right" width="100%">
   <img src="https://komarev.com/ghpvc/?username=Anushwar&style=plastic&label=Views">
 </p>
