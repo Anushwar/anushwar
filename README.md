@@ -11,11 +11,12 @@ I'm Anushwar Sharma
 - Get in touch: **anushwarsharma07@gmail.com**.
 
 ### 🔬 Work :
-|No.|Description|Status|
-|-|-|-|
-|1.|Software Engineer @ [1K Networks](https://www.1knetworks.com/)|Aug 2022 - Jul 2024|
-|2.|Software Engineer Intern @ [1K Networks](https://www.1knetworks.com/)|Nov 2021 - Jul 2022|
-|3.|Full stack development Intern @ [Disecto](https://www.disecto.com/)|Jul 2021 - Oct 2021|
+|Description|Status|
+|-|-|
+|Software Engineering Intern @ [Capital One](https://www.capitalone.com/)|Jun 2025 - Aug 2025|
+|Software Engineer @ [1K Networks](https://www.1knetworks.com/)|Aug 2022 - Jul 2024|
+|Software Engineer Intern @ [1K Networks](https://www.1knetworks.com/)|Nov 2021 - Jul 2022|
+|Full stack development Intern @ [Disecto](https://www.disecto.com/)|Jul 2021 - Oct 2021|
 
 <p align="right" width="100%">
   <img src="https://komarev.com/ghpvc/?username=Anushwar&style=plastic&label=Views">
