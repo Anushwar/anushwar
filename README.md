@@ -1,23 +1,7 @@
-<h2> Hey there 👋
-<br />
-I'm Anushwar Sharma
-</h2>
+### Hi, I'm Anushwar.
 
+I am a **Machine Learning & Systems Engineer** pursuing my MS in Computer Engineering at Arizona State University (May 2026). I specialize in building high-performance ML pipelines and optimizing data infrastructure.
 
-### 👾 About me :
-- I enjoy creating software with a great user interface and ensuring an exceptional user experience.
-- I’m currently working on LLMs and Database Systems.
-- I also spend my time learning about Machine Learning and Generative AI.
-- Get in touch: **anushwarsharma07@gmail.com**.
-
-### 🔬 Work :
-|Description|Status|
-|-|-|
-|Software Engineering Intern @ [Capital One](https://www.capitalone.com/)|Jun 2025 - Aug 2025|
-|Software Engineer @ [1K Networks](https://www.1knetworks.com/)|Aug 2022 - Jul 2024|
-|Software Engineer Intern @ [1K Networks](https://www.1knetworks.com/)|Nov 2021 - Jul 2022|
-|Full stack development Intern @ [Disecto](https://www.disecto.com/)|Jul 2021 - Oct 2021|
-
-<p align="right" width="100%">
-  <img src="https://komarev.com/ghpvc/?username=Anushwar&style=plastic&label=Views">
-</p>
+- **Current Focus:** Researching Automated Database Tuning for LSM-Trees (RocksDB).
+- **Experience:** Ex-Capital One (Machine Learning) & 1K Networks (Core Data Infrastructure).
+- **Contact:** [anushwarsharma07@gmail.com](mailto:anushwarsharma07@gmail.com)
